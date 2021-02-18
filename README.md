@@ -9,6 +9,10 @@
 <h2>Dataset</h2>
 <p> From https://ncdc.noaa.gov/cdo-web/. and Kaggle notebook.</p>
 
+<h2>Plots</h2>
+<p>Delhi Temperatures from 2013 - 2017</p>
+<img src = "https://github.com/ria-19/DataVisualization/blob/master/Figure_1.png?raw=true">
+
 
 <h2>Acknowledgments</h2>
 <p>Python Crash Book inspired Project</p>
